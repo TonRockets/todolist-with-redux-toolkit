@@ -15,7 +15,7 @@ In the project directory, you can run:
 
 ### `PAY ATTENTION`
 
-If the project has sintax error run "npm or yarn lint --fix"
+If the project has syntax error run "npm or yarn lint --fix"
 
 # Author
 
