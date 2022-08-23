@@ -1,0 +1,25 @@
+{
+  "semi": true,
+  "tabWidth": 2,
+  "printWidth": 100,
+  "singleQuote": true,
+  "trailingComma": "none",
+  "jsxBracketSameLine": true, 
+
+    "prettier/prettier": [
+      "error",
+      {
+        "singleQuote": false,
+        "parser": "flow",
+        "endOfLine": "auto"
+      },
+      {
+        "usePrettierrc": false
+      },
+      {
+        "fileInfoOptions": {
+          "withNodeModules": true
+        }
+      }
+    ]
+}
